@@ -35,7 +35,7 @@
         android:layout_marginTop="8dp"
         android:hint=" Điểm quá trình QT">
      <com.google.android.material.textfield.TextInputEditText
-         android:id="edtQt"
+         android:id="@+id/edtQt"
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
          android:inputType="numberDecimal"/>
