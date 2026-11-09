@@ -1,0 +1,194 @@
+﻿================================================================================
+                   FDT AGENT - LOCAL GIT COMMIT LOG HISTORY                     
+================================================================================
+ExportedAt: 2026-11-09 07:39:17 UTC
+
+--- CONTRIBUTORS SUMMARY ---
+9	Hà Phước Bình (2415053122203) <2415053122203@fdt.ute.udn.vn>
+
+--- MACHINE READABLE COMMITS ---
+COMMIT_ROW|41499104de5a302e417cd3e5fd67e77433debf32|4149910|Hà Phước Bình (2415053122203)|2415053122203@fdt.ute.udn.vn|Hà Phước Bình (2415053122203)|2415053122203@fdt.ute.udn.vn|2026-11-09T14:39:16+07:00|FDT Agent Auto-Commit [14:39:16]: Tự động sao lưu commit trước khi nộp bài
+COMMIT_ROW|23db65b337f08e84ea836779045adbf7d7531ef4|23db65b|Hà Phước Bình (2415053122203)|2415053122203@fdt.ute.udn.vn|Hà Phước Bình (2415053122203)|2415053122203@fdt.ute.udn.vn|2026-11-09T14:21:20+07:00|FDT Agent Autosave [14:21:20]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|8f7fefa4c2cd536e4eecde4678d62994dd7147c3|8f7fefa|Hà Phước Bình (2415053122203)|2415053122203@fdt.ute.udn.vn|Hà Phước Bình (2415053122203)|2415053122203@fdt.ute.udn.vn|2026-11-09T14:20:56+07:00|tao giao dien form hoc phan
+COMMIT_ROW|93823e2148f3a0f590d66b64da9c3018cecc809a|93823e2|Hà Phước Bình (2415053122203)|2415053122203@fdt.ute.udn.vn|Hà Phước Bình (2415053122203)|2415053122203@fdt.ute.udn.vn|2026-11-09T14:06:18+07:00|FDT Agent Autosave [14:06:18]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|281ccc0d9f081664ca148464512d03f75ee4f1d5|281ccc0|Hà Phước Bình (2415053122203)|2415053122203@fdt.ute.udn.vn|Hà Phước Bình (2415053122203)|2415053122203@fdt.ute.udn.vn|2026-11-09T14:01:16+07:00|FDT Agent Autosave [14:01:16]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|43ec41bf33ed6ca68e80a161cdbc6fa5a254f18c|43ec41b|Hà Phước Bình (2415053122203)|2415053122203@fdt.ute.udn.vn|Hà Phước Bình (2415053122203)|2415053122203@fdt.ute.udn.vn|2026-11-09T13:46:12+07:00|FDT Agent Autosave [13:46:12]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|0c9cbcd960e23d2faa8f74005ae23b45f5c6dc7f|0c9cbcd|Hà Phước Bình (2415053122203)|2415053122203@fdt.ute.udn.vn|Hà Phước Bình (2415053122203)|2415053122203@fdt.ute.udn.vn|2026-11-09T13:42:28+07:00|Khoi tao du an
+COMMIT_ROW|7eba3456f8f16e2c288ecb52c81f140e02b0af11|7eba345|Hà Phước Bình (2415053122203)|2415053122203@fdt.ute.udn.vn|Hà Phước Bình (2415053122203)|2415053122203@fdt.ute.udn.vn|2026-11-09T13:41:12+07:00|FDT Agent Autosave [13:41:12]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|a97142fbc4d44a10cc8ed3721bd1ecfda78e3662|a97142f|Hà Phước Bình (2415053122203)|2415053122203@fdt.ute.udn.vn|Hà Phước Bình (2415053122203)|2415053122203@fdt.ute.udn.vn|2026-11-09T13:21:45+07:00|FDT Agent: Initialized local project repository
+
+--- DETAILED COMMIT HISTORY WITH FILE STATS ---
+commit 41499104de5a302e417cd3e5fd67e77433debf32
+Author:     Hà Phước Bình (2415053122203) <2415053122203@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 14:39:16 2026 +0700
+Commit:     Hà Phước Bình (2415053122203) <2415053122203@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 14:39:16 2026 +0700
+
+    FDT Agent Auto-Commit [14:39:16]: Tự động sao lưu commit trước khi nộp bài
+
+ app/src/main/res/layout/activity_main.xml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 23db65b337f08e84ea836779045adbf7d7531ef4
+Author:     Hà Phước Bình (2415053122203) <2415053122203@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 14:21:20 2026 +0700
+Commit:     Hà Phước Bình (2415053122203) <2415053122203@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 14:21:20 2026 +0700
+
+    FDT Agent Autosave [14:21:20]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ app/src/main/res/layout/activity_main.xml | 52 +++++++++++++++++++++++++++++--
+ 1 file changed, 50 insertions(+), 2 deletions(-)
+
+commit 8f7fefa4c2cd536e4eecde4678d62994dd7147c3
+Author:     Hà Phước Bình (2415053122203) <2415053122203@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 14:20:56 2026 +0700
+Commit:     Hà Phước Bình (2415053122203) <2415053122203@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 14:20:56 2026 +0700
+
+    tao giao dien form hoc phan
+
+ app/src/main/res/layout/activity_main.xml | 87 ++++++++++++++++++++++++++-----
+ 1 file changed, 75 insertions(+), 12 deletions(-)
+
+commit 93823e2148f3a0f590d66b64da9c3018cecc809a
+Author:     Hà Phước Bình (2415053122203) <2415053122203@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 14:06:18 2026 +0700
+Commit:     Hà Phước Bình (2415053122203) <2415053122203@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 14:06:18 2026 +0700
+
+    FDT Agent Autosave [14:06:18]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ app/src/main/res/layout/activity_main.xml | 22 +++++++++++++++++++++-
+ 1 file changed, 21 insertions(+), 1 deletion(-)
+
+commit 281ccc0d9f081664ca148464512d03f75ee4f1d5
+Author:     Hà Phước Bình (2415053122203) <2415053122203@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 14:01:16 2026 +0700
+Commit:     Hà Phước Bình (2415053122203) <2415053122203@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 14:01:16 2026 +0700
+
+    FDT Agent Autosave [14:01:16]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ app/src/main/res/layout/activity_main.xml | 21 ++++++++-------------
+ 1 file changed, 8 insertions(+), 13 deletions(-)
+
+commit 43ec41bf33ed6ca68e80a161cdbc6fa5a254f18c
+Author:     Hà Phước Bình (2415053122203) <2415053122203@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 13:46:12 2026 +0700
+Commit:     Hà Phước Bình (2415053122203) <2415053122203@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 13:46:12 2026 +0700
+
+    FDT Agent Autosave [13:46:12]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ 126TLTTD01_2415053122203 | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 0c9cbcd960e23d2faa8f74005ae23b45f5c6dc7f
+Author:     Hà Phước Bình (2415053122203) <2415053122203@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 13:42:28 2026 +0700
+Commit:     Hà Phước Bình (2415053122203) <2415053122203@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 13:42:28 2026 +0700
+
+    Khoi tao du an
+
+ app/.gitignore                                     |   1 +
+ app/build.gradle.kts                               |  43 ++++
+ .../ExampleInstrumentedTest.kt                     |  24 ++
+ app/src/main/AndroidManifest.xml                   |  26 +++
+ .../a126tlttd01_2415053122203/MainActivity.kt      |  20 ++
+ app/src/main/keepRules/rules.keep                  |  12 +
+ .../main/res/drawable/ic_launcher_background.xml   | 170 ++++++++++++++
+ .../main/res/drawable/ic_launcher_foreground.xml   |  30 +++
+ app/src/main/res/layout/activity_main.xml          |  19 ++
+ app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml |   6 +
+ .../res/mipmap-anydpi-v26/ic_launcher_round.xml    |   6 +
+ app/src/main/res/mipmap-hdpi/ic_launcher.webp      | Bin 0 -> 1404 bytes
+ .../main/res/mipmap-hdpi/ic_launcher_round.webp    | Bin 0 -> 2898 bytes
+ app/src/main/res/mipmap-mdpi/ic_launcher.webp      | Bin 0 -> 982 bytes
+ .../main/res/mipmap-mdpi/ic_launcher_round.webp    | Bin 0 -> 1772 bytes
+ app/src/main/res/mipmap-xhdpi/ic_launcher.webp     | Bin 0 -> 1900 bytes
+ .../main/res/mipmap-xhdpi/ic_launcher_round.webp   | Bin 0 -> 3918 bytes
+ app/src/main/res/mipmap-xxhdpi/ic_launcher.webp    | Bin 0 -> 2884 bytes
+ .../main/res/mipmap-xxhdpi/ic_launcher_round.webp  | Bin 0 -> 5914 bytes
+ app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp   | Bin 0 -> 3844 bytes
+ .../main/res/mipmap-xxxhdpi/ic_launcher_round.webp | Bin 0 -> 7778 bytes
+ app/src/main/res/values-night/themes.xml           |   7 +
+ app/src/main/res/values/colors.xml                 |   5 +
+ app/src/main/res/values/strings.xml                |   3 +
+ app/src/main/res/values/themes.xml                 |   9 +
+ app/src/main/res/xml/backup_rules.xml              |  13 ++
+ app/src/main/res/xml/data_extraction_rules.xml     |  19 ++
+ .../a126tlttd01_2415053122203/ExampleUnitTest.kt   |  17 ++
+ build.gradle.kts                                   |   4 +
+ gradle.properties                                  |  19 ++
+ gradle/gradle-daemon-jvm.properties                |  12 +
+ gradle/libs.versions.toml                          |  24 ++
+ gradle/wrapper/gradle-wrapper.jar                  | Bin 0 -> 45457 bytes
+ gradle/wrapper/gradle-wrapper.properties           |   9 +
+ gradlew                                            | 251 +++++++++++++++++++++
+ gradlew.bat                                        |  94 ++++++++
+ local.properties                                   |  10 +
+ settings.gradle.kts                                |  27 +++
+ 38 files changed, 880 insertions(+)
+
+commit 7eba3456f8f16e2c288ecb52c81f140e02b0af11
+Author:     Hà Phước Bình (2415053122203) <2415053122203@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 13:41:12 2026 +0700
+Commit:     Hà Phước Bình (2415053122203) <2415053122203@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 13:41:12 2026 +0700
+
+    FDT Agent Autosave [13:41:12]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ 126TLTTD01_2415053122203                           |   1 +
+ app/.gitignore                                     |   1 +
+ app/build.gradle.kts                               |  43 ++++
+ .../ExampleInstrumentedTest.kt                     |  24 ++
+ app/src/main/AndroidManifest.xml                   |  26 +++
+ .../a126tlttd01_2415053122203/MainActivity.kt      |  20 ++
+ app/src/main/keepRules/rules.keep                  |  12 +
+ .../main/res/drawable/ic_launcher_background.xml   | 170 ++++++++++++++
+ .../main/res/drawable/ic_launcher_foreground.xml   |  30 +++
+ app/src/main/res/layout/activity_main.xml          |  19 ++
+ app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml |   6 +
+ .../res/mipmap-anydpi-v26/ic_launcher_round.xml    |   6 +
+ app/src/main/res/mipmap-hdpi/ic_launcher.webp      | Bin 0 -> 1404 bytes
+ .../main/res/mipmap-hdpi/ic_launcher_round.webp    | Bin 0 -> 2898 bytes
+ app/src/main/res/mipmap-mdpi/ic_launcher.webp      | Bin 0 -> 982 bytes
+ .../main/res/mipmap-mdpi/ic_launcher_round.webp    | Bin 0 -> 1772 bytes
+ app/src/main/res/mipmap-xhdpi/ic_launcher.webp     | Bin 0 -> 1900 bytes
+ .../main/res/mipmap-xhdpi/ic_launcher_round.webp   | Bin 0 -> 3918 bytes
+ app/src/main/res/mipmap-xxhdpi/ic_launcher.webp    | Bin 0 -> 2884 bytes
+ .../main/res/mipmap-xxhdpi/ic_launcher_round.webp  | Bin 0 -> 5914 bytes
+ app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp   | Bin 0 -> 3844 bytes
+ .../main/res/mipmap-xxxhdpi/ic_launcher_round.webp | Bin 0 -> 7778 bytes
+ app/src/main/res/values-night/themes.xml           |   7 +
+ app/src/main/res/values/colors.xml                 |   5 +
+ app/src/main/res/values/strings.xml                |   3 +
+ app/src/main/res/values/themes.xml                 |   9 +
+ app/src/main/res/xml/backup_rules.xml              |  13 ++
+ app/src/main/res/xml/data_extraction_rules.xml     |  19 ++
+ .../a126tlttd01_2415053122203/ExampleUnitTest.kt   |  17 ++
+ build.gradle.kts                                   |   4 +
+ gradle.properties                                  |  19 ++
+ gradle/gradle-daemon-jvm.properties                |  12 +
+ gradle/libs.versions.toml                          |  24 ++
+ gradle/wrapper/gradle-wrapper.jar                  | Bin 0 -> 45457 bytes
+ gradle/wrapper/gradle-wrapper.properties           |   9 +
+ gradlew                                            | 251 +++++++++++++++++++++
+ gradlew.bat                                        |  94 ++++++++
+ local.properties                                   |  10 +
+ settings.gradle.kts                                |  27 +++
+ 39 files changed, 881 insertions(+)
+
+commit a97142fbc4d44a10cc8ed3721bd1ecfda78e3662
+Author:     Hà Phước Bình (2415053122203) <2415053122203@fdt.ute.udn.vn>
+AuthorDate: Mon Nov 9 13:21:45 2026 +0700
+Commit:     Hà Phước Bình (2415053122203) <2415053122203@fdt.ute.udn.vn>
+CommitDate: Mon Nov 9 13:21:45 2026 +0700
+
+    FDT Agent: Initialized local project repository
+
+ .gitignore | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
