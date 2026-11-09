@@ -3,80 +3,82 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-<LinearLayout
-  android:layout_width="match_parent"
-  android:layout_height="wrap_content"
-  android:orientation="vertical"
-    android:padding="16dp">
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Sổ học phần"
-        android:textSize="24sp"/>
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="W01A - Hà Phước Bình - 2415053122203" />
-    <com.google.android.material.textfield.TextInputLayout
-        android:id="@+id/tilTen"
+
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:hint="Tên học Phần">
-        <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/edtTen"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sổ học phần"
+            android:textSize="24sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="W01A - Hà Phước Bình - 2415053122203" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tilTen"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
-    </com.google.android.material.textfield.TextInputLayout>
-    <com.google.android.material.textfield.TextInputLayout
-        android:id="@+id/tiLQT"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
-        android:hint=" Điểm quá trình QT">
-     <com.google.android.material.textfield.TextInputEditText
-         android:id="@+id/edtQt"
-         android:layout_width="match_parent"
-         android:layout_height="wrap_content"
-         android:inputType="numberDecimal"/>
-    </com.google.android.material.textfield.TextInputLayout>
-    <com.google.android.material.textfield.TextInputLayout
-        android:id="@+id/tiLCk"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
-        android:hint="Điểm cuối kì CK">
-     <com.google.android.material.textfield.TextInputEditText
-         android:id="@+id/edtCk"
-         android:layout_width="match_parent"
-         android:layout_height="wrap_content"
-         android:inputType="numberDecimal"/>
-    </com.google.android.material.textfield.TextInputLayout>
-    <com.google.android.material.button.MaterialButton
-        android:id="@+id/btnKiemTra"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:text="kiểm tra"/>
-    <com.google.android.material.button.MaterialButton
-        android:id="@+id/btnXoa"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Xóa"/>
-    <TextView
-        android:id="@+id/txtKetqua"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"/>
-</LinearLayout>
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:hint="Tên học phần">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/edtTen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tilQt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:hint="Điểm quá trình QT">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/edtQt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/tilCk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:hint="Điểm cuối kỳ CK">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/edtCk"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnKiemTra"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Kiểm tra" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnXoa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Xóa" />
+
+        <TextView
+            android:id="@+id/txtKetQua"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp" />
+    </LinearLayout>
 </ScrollView>
-
-
-
-
-
-
-
-
-
-

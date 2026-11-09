@@ -1,4 +1,4 @@
-package vn.udn.ute.week08.s2415053122203
+package vn.udn.ute.week08.a126tlttd01_2415053122203
 
 object HocPhanHelper {
     const val NGUONG_D = 5.5
