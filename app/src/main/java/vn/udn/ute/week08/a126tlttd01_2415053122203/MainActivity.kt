@@ -46,6 +46,15 @@ class MainActivity : AppCompatActivity() {
             }
             hienKetQua(ten, qt, ck)
         }
+        findViewById<Button>(R.id.btnXoa).setOnClickListener {
+            edtTen.setText("")
+            edtQt.setText("")
+            edtCk.setText("")
+            tilTen.error = null
+            tilQt.error = null
+            tilCk.error = null
+            txtKetQua.text = ""
+        }
     }
 
     private fun hienKetQua(ten: String, qt: Double, ck: Double) {
